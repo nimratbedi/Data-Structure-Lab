@@ -2,7 +2,7 @@
 using namespace std;
 void insertionsort(int a[],int n)
 {
-    int i,j,k,temp,m;
+    int i,j,k,temp,m,n;
     for(i=0;i<n;i++)
     {
         m=a[i];
