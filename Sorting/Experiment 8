@@ -42,7 +42,7 @@ int main()
      cout<<"\nAfter insertion array is :\n";
       for(i=0;i<n;i++)
     {
-        cout<<a[i+j]<<" ";
+        cout<<a[i]<<" ";
     }
 
 }
